@@ -3,8 +3,8 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'dart:async';
 
-const CHAVE_YOUTUBE_API = "AIzaSyDA3ob4j4VOcovTOPL5xnFdUQ2qLUqhJtQ";   //AulaFlutter 2 projeto
-//const CHAVE_YOUTUBE_API = "AIzaSyCYFfw2vKqJ6yMxQa53tUMg_kbONFHy4CM"; //AulaFlutter projeto
+const CHAVE_YOUTUBE_API = "";   //AulaFlutter 2 projeto
+//const CHAVE_YOUTUBE_API = ""; //AulaFlutter projeto
 const ID_CANAL = "UCzjtGnD7qqeaHW3nvDVrjQA";
 const URL_BASE = "https://www.googleapis.com/youtube/v3";
 
