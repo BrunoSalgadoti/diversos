@@ -5,7 +5,7 @@ import 'dart:async';
 
 const CHAVE_YOUTUBE_API = "";   //AulaFlutter 2 projeto
 //const CHAVE_YOUTUBE_API = ""; //AulaFlutter projeto
-const ID_CANAL = "UCFCiSRbCVwQ_BQaDQBYxN_A";
+const ID_CANAL = "";
 const URL_BASE = "https://www.googleapis.com/youtube/v3";
 
 class Api {
